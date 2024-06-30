@@ -9,7 +9,7 @@
 
 
 ###
-🔭 I’m currently working on enhancing my skills in Spring Boot and trying to develop interesting web applications.<br><br>👯 I’m looking to collaborate on innovative web development projects, particularly those involving Java, Spring Boot, and React.<br><br>🤝 I’m looking for help with mastering advanced concepts in cloud computing and deploying scalable applications.<br><br>🌱 I’m currently learning Docker and Kubernetes to streamline the deployment and management of applications.<br><br>💬 Ask me about Java development, web development with Spring MVC and React, or anything related to software development life cycles.<br><br>⚡ Fun fact: When I'm not coding, I enjoy exploring wildlife parks and learning about different animal species!
+🔭 I’m currently working on enhancing my skills in Spring Boot and trying to develop interesting web applications.<br><br>👯 I’m looking to collaborate on innovative web development projects, particularly those involving Java, Spring Boot, and React.<br><br>🤝 I’m looking for help with mastering advanced concepts in cloud computing and deploying scalable applications.<br><br>🌱 I’m currently learning Docker and Kubernetes to streamline the deployment and management of applications.<br><br>⚡ Fun fact: When I'm not coding, I enjoy exploring wildlife parks and learning about different animal species!
 
 
 ## 🌐 Socials:
