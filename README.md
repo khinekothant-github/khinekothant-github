@@ -1,8 +1,12 @@
 # 💫 About Me:
 
 <div align="center">
-  <img height="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTZwdXRqd2F4b3k2YjhneWxyY3gycmt5NnNiaXQ5YjllcDA5anF5YyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif" />
+  <img height="300" src="https://camo.githubusercontent.com/47ec94a2375aa870a266c61f8b98f9c641a097e08ee5abde491b3c9efd73e4a7/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f76312e59326c6b505463354d4749334e6a45784e545a77645852716432463462336b32596a686e6557787959336779636d74354e6e4e6961585135596a6c6c63444135616e463559795a6c634431324d56396e61575a7a58334e6c59584a6a61435a6a6444316e2f5262444b61637a71576f76497567794a6d572f67697068792e676966" />
+  
 </div>
+
+
+
 
 ###
 🔭 I’m currently working on enhancing my skills in Spring Boot and developing a comprehensive financial web application.<br><br>👯 I’m looking to collaborate on innovative web development projects, particularly those involving Java, Spring Boot, and React.<br><br>🤝 I’m looking for help with mastering advanced concepts in cloud computing and deploying scalable applications.<br><br>🌱 I’m currently learning Docker and Kubernetes to streamline the deployment and management of applications.<br><br>💬 Ask me about Java development, web development with Spring MVC and React, or anything related to software development life cycles.<br><br>⚡ Fun fact: When I'm not coding, I enjoy exploring wildlife parks and learning about different animal species!
