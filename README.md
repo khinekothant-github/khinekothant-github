@@ -20,9 +20,12 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khinekothant-github&theme=aura&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=khinekothant-github&theme=aura&hide_border=false&include_all_commits=true&count_private=true" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khinekothant-github&theme=aura&hide_border=false" /><br/>
+  <br/>
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khinekothant-github&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+
 </p>
 
 <!--- ## 🏆 GitHub Trophies
