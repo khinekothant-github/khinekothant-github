@@ -20,9 +20,9 @@
 # 📊 GitHub Stats:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=khinekothant-github&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="width: 45%;" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khinekothant-github&theme=aura&hide_border=false&layout=compact" style="width: 45%;" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khinekothant-github&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="width: 45%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khinekothant-github&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="width: 50%;" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=khinekothant-github&theme=aura&hide_border=false&layout=compact" style="width: 50%;" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khinekothant-github&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="width: 50%;" />
 
 </p>
 
