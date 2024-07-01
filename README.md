@@ -23,7 +23,7 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khinekothant-github&theme=aura&hide_border=false&layout=compact" width="500" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khinekothant-github&theme=aura&hide_border=false&include_all_commits=true&count_private=true&layout=compact" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khinekothant-github&theme=aura&hide_border=false&include_all_commits=true&count_private=true" width="500" />
 </div>
 <!--- ## 🏆 GitHub Trophies
  ![](https://github-profile-trophy.vercel.app/?username=khinekothant-github&theme=radical&no-frame=false&no-bg=true&margin-w=4) --->
