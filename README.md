@@ -1,12 +1,15 @@
 # 💫 About Me:
 
+# 💫 About Me:
+
 <div align="center">
-  <iframe src="https://giphy.com/embed/qSq83TnQ2a2Kr5PpTz" width="480" height="269" style="border:none;" frameBorder="0" allowFullScreen></iframe>
+  <img src="https://media.giphy.com/media/qSq83TnQ2a2Kr5PpTz/giphy.gif" width="480" height="269" alt="GIF via Giphy">
 </div>
 
 <p align="center">
   <a href="https://giphy.com/gifs/qSq83TnQ2a2Kr5PpTz">via GIPHY</a>
 </p>
+
 
 
 
