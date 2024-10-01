@@ -1,10 +1,13 @@
 # 💫 About Me:
 
 <div align="center">
-	
-<iframe src="https://giphy.com/embed/qSq83TnQ2a2Kr5PpTz" width="100%" height="100%" style="position:absolute" frameborder="0" class="giphy-embed" allowfullscreen></iframe>
-	
+  <iframe src="https://giphy.com/embed/qSq83TnQ2a2Kr5PpTz" width="480" height="269" style="border:none;" frameBorder="0" allowFullScreen></iframe>
 </div>
+
+<p align="center">
+  <a href="https://giphy.com/gifs/qSq83TnQ2a2Kr5PpTz">via GIPHY</a>
+</p>
+
 
 
 
