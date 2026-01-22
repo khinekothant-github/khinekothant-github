@@ -2,17 +2,17 @@
   <img src="https://media.giphy.com/media/qSq83TnQ2a2Kr5PpTz/giphy.gif" width="100%" height="auto" style="max-width: 480px" alt="Coding GIF">
   
   <h1 align="center">Hi there, I'm Khine Ko Thant! 👋</h1>
-  <h3 align="center">Software Developer | Full Stack PHP & JavaScript Specialist</h3>
+  <h3 align="center">Software Developer</h3>
 </div>
 
 <br/>
 
 ### 💫 About Me
-I am a highly motivated **Software Developer** specializing in full-stack web and mobile application development[cite: 17]. I have a passion for architecting user-centric applications and building scalable database solutions[cite: 19, 20].
+I am a highly motivated **Software Developer** specializing in full-stack web and mobile application development. I have a passion for architecting user-centric applications and building scalable database solutions.
 
-- 🔭 I’m currently building robust backend portals using **Laravel** and **REST APIs**[cite: 31, 32].
+- 🔭 I’m currently building robust backend portals using **Laravel** and **REST APIs**.
 - 👯 I’m looking to collaborate on **Vue.js** and **PHP** based projects.
-- 🤝 I have experience integrating third-party services like **Firebase** and **Redis**[cite: 19, 37].
+- 🤝 I have experience integrating third-party services like **Firebase** and **Redis**.
 - 🌱 I’m constantly refining my skills in **System Architecture** and **Database Optimization**.
 - ⚡ **Fun fact:** When I'm not coding, I enjoy exploring wildlife parks and learning about different animal species!
 
